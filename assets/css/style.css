@@ -39,22 +39,20 @@ a {
     text-decoration: none;
 }
 
-.hero {
+.extra {
     background-color: bisque;
-    background-image: url("../images/hero-background-small.jpg");
-    background-size: cover;
     color: black;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 10px;
 }
 
-.container {
+.detail {
     text-align: center;
     font-size: 20px;
 }
 
-.container img {
+.detail img {
     max-width: 10%;
     max-height: 20%;
 }
