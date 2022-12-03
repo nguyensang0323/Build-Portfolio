@@ -1,2 +1,3 @@
 # Build-Portfolio
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nguyensang1998/Desktop/Build-Portfolio/assets/images/coming-soon2.jpg?version%3D1670029450947)
+
+![IMG_7793](https://user-images.githubusercontent.com/114970297/205414960-084e73de-38b3-4032-a07e-5f4697fe1f25.JPG)
