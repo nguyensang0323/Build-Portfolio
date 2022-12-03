@@ -15,5 +15,5 @@ The CSS file integraed flexbox properties to make the styling of the page more c
 
 
 ## Project URLs
-- Deployed Site:
+- Deployed Site: https://nguyensang0323.github.io/Build-Portfolio/
 - GitHub Repository: https://github.com/nguyensang0323/Build-Portfolio
