@@ -8,3 +8,11 @@ This initial portfolio is comprised of an HTML file and CSS File. The HTML file 
 - A brief description about myself in the About Me section.
 - All my projects displayed in the Works sections.
 - A footer with information on how to contact me via phone, GitHub, or email.
+The CSS file integraed flexbox properties to make the styling of the page more coherent. Colors were added to make the page more engaging. This portfolio will continue to develop as I progress through the Bootcamp.
+
+## Snapshot of Deployed Site
+
+
+## Project URLs
+- Deployed Site:
+- GitHub Repository:
