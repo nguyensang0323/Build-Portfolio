@@ -85,15 +85,15 @@ header img {
     max-width: 20%;
     max-height: 30%;
 }
-.primary img:hover, .secondary img:hover {
+.primary img:hover, .secondary img:hover, .tertiary img:hover, .quarternary img:hover {
     box-shadow: 0 0 0 5px blueviolet;
 }
 
 .primary img {
-    max-height: 400px;
+    max-height: 200px;
     max-width: 50%;
 }
-.primary, .secondary {
+.primary, .secondary, .tertiary, .quarternary {
     margin-right: 20px;
     padding-bottom: 8px;
 }
@@ -105,6 +105,11 @@ header img {
 
 .tertiary img {
     max-height:350px;
+    max-width: 50%;
+}
+
+.quarternary img {
+    max-height: 400px;
     max-width: 50%;
 }
 
